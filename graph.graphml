@@ -1,0 +1,705 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="Andrew Kippis"/>
+<node id="George III of the United Kingdom"/>
+<node id="Benjamin Franklin"/>
+<node id="Richard Bache"/>
+<node id="Sarah Franklin Bache"/>
+<node id="Benjamin Franklin Bache"/>
+<node id="Benjamin Franklin Bache "/>
+<node id="Deborah Read"/>
+<node id="John Adams"/>
+<node id="Georg Wilhelm Richmann"/>
+<node id="Mikhail Lomonosov"/>
+<node id="Alexander Pope"/>
+<node id="Mary Morrell Folger"/>
+<node id="Thomas Mayhew"/>
+<node id="Thomas Bond (physician)"/>
+<node id="Jane Mecom"/>
+<node id="James Anderson (Freemason)"/>
+<node id="John Dryden"/>
+<node id="Samuel Garth"/>
+<node id="Joseph Addison"/>
+<node id="George II of Great Britain"/>
+<node id="Samuel Johnson"/>
+<node id="Richard Bentley"/>
+<node id="John Arbuthnot"/>
+<node id="Henry St John, 1st Viscount Bolingbroke"/>
+<node id="John Gay"/>
+<node id="Jacob Tonson"/>
+<node id="Jonathan Swift"/>
+<node id="Richard Steele"/>
+<node id="William Shakespeare"/>
+<node id="Louis XVI of France"/>
+<node id="Louis XVIII of France"/>
+<node id="Armand Marc, comte de Montmorin"/>
+<node id="Maria Theresa"/>
+<node id="Frederick William II of Prussia"/>
+<node id="Marie Antoinette"/>
+<node id="Louis XIII of France"/>
+<node id="Pierre Beaumarchais"/>
+<node id="Louis Philippe II, Duke of Orléans"/>
+<node id="Jean-Baptiste Donatien de Vimeur, comte de Rochambeau"/>
+<node id="Louis XV of France"/>
+<node id="Jacques Necker"/>
+<node id="Charles X of France"/>
+<node id="Joseph Duplessis"/>
+<node id="Denis Diderot"/>
+<node id="Adam Smith"/>
+<node id="Henry Home, Lord Kames"/>
+<node id="Claude Adrien Helvétius"/>
+<node id="Francis Hutcheson "/>
+<node id="François Quesnay"/>
+<node id="George Stigler"/>
+<node id="Joseph Schumpeter"/>
+<node id="Thomas Reid"/>
+<node id="James Hutton"/>
+<node id="Joseph Black"/>
+<node id="James Boswell"/>
+<node id="Andrew Millar"/>
+<node id="William Strahan "/>
+<node id="Jacques-Donatien Le Ray de Chaumont"/>
+<node id="Silas Deane"/>
+<node id="William Franklin"/>
+<node id="William Hewson (surgeon)"/>
+<node id="Henry Steele Commager"/>
+<node id="Raymond Aron"/>
+<node id="John Stuart, 3rd Earl of Bute"/>
+<node id="Alexander Wedderburn, 1st Earl of Rosslyn"/>
+<node id="William Temple Franklin"/>
+<node id="Max Weber"/>
+<node id="Franz Mesmer"/>
+<node id="Joseph-Ignace Guillotin"/>
+<node id="Jean Sylvain Bailly"/>
+<node id="Antoine Lavoisier"/>
+<node id="Thomas Hutchinson (governor)"/>
+<node id="Jonathan Belcher"/>
+<node id="Samuel Adams"/>
+<node id="Wills Hill, 1st Marquess of Downshire"/>
+<node id="Spencer Phips"/>
+<node id="Jonathan Sewall"/>
+<node id="William Legge, 2nd Earl of Dartmouth"/>
+<node id="Frederick North, Lord North"/>
+<node id="Mercy Otis Warren"/>
+<node id="Andrew Oliver"/>
+<node id="James Bowdoin"/>
+<node id="Hugh Meredith"/>
+<node id="Samuel Keimer"/>
+<node id="Matthew Fontaine Maury"/>
+<node id="Thomas Jefferson"/>
+<node id="John Quincy Adams"/>
+<node id="James Maury"/>
+<node id="James Monroe"/>
+<node id="George Grenville"/>
+<node id="William Pitt, 1st Earl of Chatham"/>
+<node id="Peter Folger (Nantucket settler)"/>
+<node id="William Smith (Episcopal priest)"/>
+<node id="Selina Hastings, Countess of Huntingdon"/>
+<node id="Richard Peters "/>
+<node id="Charles Wesley"/>
+<node id="George Whitefield"/>
+<node id="John Wesley"/>
+<node id="James Franklin (printer)"/>
+<node id="Andrew Bradford"/>
+<node id="Archibald Spencer"/>
+<node id="William Hunter (publisher)"/>
+<node id="Josiah Wedgwood"/>
+<node id="Joseph Priestley"/>
+<node id="Charlotte of Mecklenburg-Strelitz"/>
+<node id="Darwin–Wedgwood family"/>
+<node id="Erasmus Darwin"/>
+<node id="Thomas Hutchinson "/>
+<node id="Peter Oliver "/>
+<node id="Samuel Taylor Coleridge"/>
+<node id="Mary Wollstonecraft"/>
+<node id="Oliver Cromwell"/>
+<node id="James Burnett, Lord Monboddo"/>
+<node id="David Hartley "/>
+<node id="Carl Linnaeus"/>
+<node id="Sir William Keith, 4th Baronet"/>
+<node id="George I of Great Britain"/>
+<node id="William Penn"/>
+<node id="Anne, Queen of Great Britain"/>
+<node id="Hannah Callowhill Penn"/>
+<node id="George Pocock (inventor)"/>
+<node id="Matthew Boulton"/>
+<node id="James Watt"/>
+<node id="William Pitt the Younger"/>
+<node id="John Wilkinson "/>
+<node id="Palladian architecture"/>
+<node id="William Small"/>
+<node id="William Murdoch"/>
+<node id="Robert Jenkinson, 2nd Earl of Liverpool"/>
+<node id="James Keir"/>
+<node id="John Roebuck"/>
+<node id="Matthew Robinson Boulton"/>
+<node id="Tun Tavern"/>
+<node id="Samuel Johnson (American educator)"/>
+<node id="Jonathan Edwards "/>
+<node id="George Berkeley"/>
+<node id="Joseph Ellis"/>
+<node id="John Jay"/>
+<node id="Francis Bacon"/>
+<node id="Alexander Hamilton"/>
+<node id="Roger Sherman"/>
+<node id="Robert R. Livingston "/>
+<node id="Honoré Gabriel Riqueti, comte de Mirabeau"/>
+<node id="Jean-Paul Marat"/>
+<node id="Victor de Riqueti, marquis de Mirabeau"/>
+<node id="William Petty, 2nd Earl of Shelburne"/>
+<node id="Adrien Maurice de Noailles"/>
+<node id="Blaise Pascal"/>
+<node id="Catherine I of Russia"/>
+<node id="Christiaan Huygens"/>
+<node id="Evangelista Torricelli"/>
+<node id="Pierre de Fermat"/>
+<node id="Marin Mersenne"/>
+<node id="René Descartes"/>
+<node id="Francis Godwin"/>
+<node id="Pierre Bouguer"/>
+<node id="Leonhard Euler"/>
+<node id="Carl Friedrich Gauss"/>
+<node id="Marquis de Condorcet"/>
+<node id="Gottfried Wilhelm Leibniz"/>
+<node id="Yekaterina Vorontsova-Dashkova"/>
+<node id="William Robertson "/>
+<node id="Thomas-François Dalibard"/>
+<node id="Jeffersonian democracy"/>
+<node id="Sally Hemings"/>
+<node id="Ron Chernow"/>
+<node id="Charles Gravier, comte de Vergennes"/>
+<node id="Thomas Paine"/>
+<node id="Richard Price"/>
+<node id="Abigail Adams"/>
+<node id="David McCullough"/>
+<node id="John Marshall"/>
+<node id="Henry Laurens"/>
+<node id="Benjamin Rush"/>
+<node id="Mary Jefferson Eppes"/>
+<node id="Charles Cotesworth Pinckney"/>
+<node id="James T. Callender"/>
+<node id="Samuel Willard"/>
+<node id="Thomas Brattle"/>
+<node id="John Hancock"/>
+<node id="Paul Revere"/>
+<node id="David Hall (publisher)"/>
+<node id="Edmund Burke"/>
+<node id="William III of England"/>
+<node id="John Canton"/>
+<node id="Alessandro Volta"/>
+<node id="Theophilus Lindsey"/>
+<node id="John Aikin"/>
+<node id="Alexander Bain"/>
+<node id="Henry Cavendish"/>
+<node id="Benjamin Vaughan"/>
+<node id="Joseph Johnson "/>
+<node id="James Clerk Maxwell"/>
+<node id="Immanuel Kant"/>
+<node id="William Herschel"/>
+<node id="Washington-Franklin Issues"/>
+<node id="Thomas Young (scientist)"/>
+<node id="Charles James Fox"/>
+<node id="Henry Addington, 1st Viscount Sidmouth"/>
+<node id="Thomas Sheridan "/>
+<node id="Cotton Mather"/>
+<node id="Edmund Bacon "/>
+<node id="Charles II of England"/>
+<node id="Charles I of England"/>
+<node id="Otto von Guericke"/>
+<node id="Walter Isaacson"/>
+<node id="John Pringle"/>
+<node id="James Madison (bishop)"/>
+<node id="George Wythe"/>
+<node id="James Madison"/>
+<node id="William Nicholson "/>
+<node id="Tiberius Cavallo"/>
+<node id="Peter Martyr d'Anghiera"/>
+<node id="Benjamin Franklin National Memorial"/>
+<node id="Ezra Stiles"/>
+<node id="Christopher Wyvill"/>
+<node id="Jacques Charles"/>
+<node id="Richard Peters (priest)"/>
+<edge source="Andrew Kippis" target="George III of the United Kingdom"/>
+<edge source="Andrew Kippis" target="Benjamin Franklin"/>
+<edge source="Andrew Kippis" target="Richard Price"/>
+<edge source="George III of the United Kingdom" target="William Pitt the Younger"/>
+<edge source="George III of the United Kingdom" target="Joseph Addison"/>
+<edge source="George III of the United Kingdom" target="George II of Great Britain"/>
+<edge source="George III of the United Kingdom" target="Henry Addington, 1st Viscount Sidmouth"/>
+<edge source="George III of the United Kingdom" target="Frederick William II of Prussia"/>
+<edge source="George III of the United Kingdom" target="George Grenville"/>
+<edge source="George III of the United Kingdom" target="John Stuart, 3rd Earl of Bute"/>
+<edge source="George III of the United Kingdom" target="William Petty, 2nd Earl of Shelburne"/>
+<edge source="George III of the United Kingdom" target="Charlotte of Mecklenburg-Strelitz"/>
+<edge source="George III of the United Kingdom" target="Frederick North, Lord North"/>
+<edge source="George III of the United Kingdom" target="Charles James Fox"/>
+<edge source="George III of the United Kingdom" target="Robert Jenkinson, 2nd Earl of Liverpool"/>
+<edge source="George III of the United Kingdom" target="John Adams"/>
+<edge source="George III of the United Kingdom" target="William Herschel"/>
+<edge source="George III of the United Kingdom" target="William Pitt, 1st Earl of Chatham"/>
+<edge source="George III of the United Kingdom" target="Benjamin Franklin"/>
+<edge source="George III of the United Kingdom" target="Alexander Wedderburn, 1st Earl of Rosslyn"/>
+<edge source="George III of the United Kingdom" target="Thomas Jefferson"/>
+<edge source="George III of the United Kingdom" target="Erasmus Darwin"/>
+<edge source="George III of the United Kingdom" target="Matthew Boulton"/>
+<edge source="George III of the United Kingdom" target="John Hancock"/>
+<edge source="Benjamin Franklin" target="Richard Bache"/>
+<edge source="Benjamin Franklin" target="Georg Wilhelm Richmann"/>
+<edge source="Benjamin Franklin" target="Mary Morrell Folger"/>
+<edge source="Benjamin Franklin" target="Thomas Bond (physician)"/>
+<edge source="Benjamin Franklin" target="Jane Mecom"/>
+<edge source="Benjamin Franklin" target="James Anderson (Freemason)"/>
+<edge source="Benjamin Franklin" target="Alexander Pope"/>
+<edge source="Benjamin Franklin" target="Louis XVI of France"/>
+<edge source="Benjamin Franklin" target="Joseph Duplessis"/>
+<edge source="Benjamin Franklin" target="Adam Smith"/>
+<edge source="Benjamin Franklin" target="Jacques-Donatien Le Ray de Chaumont"/>
+<edge source="Benjamin Franklin" target="Sarah Franklin Bache"/>
+<edge source="Benjamin Franklin" target="William Hewson (surgeon)"/>
+<edge source="Benjamin Franklin" target="Henry Steele Commager"/>
+<edge source="Benjamin Franklin" target="William Franklin"/>
+<edge source="Benjamin Franklin" target="Max Weber"/>
+<edge source="Benjamin Franklin" target="Franz Mesmer"/>
+<edge source="Benjamin Franklin" target="Thomas Hutchinson (governor)"/>
+<edge source="Benjamin Franklin" target="Hugh Meredith"/>
+<edge source="Benjamin Franklin" target="Matthew Fontaine Maury"/>
+<edge source="Benjamin Franklin" target="Wills Hill, 1st Marquess of Downshire"/>
+<edge source="Benjamin Franklin" target="Peter Folger (Nantucket settler)"/>
+<edge source="Benjamin Franklin" target="William Smith (Episcopal priest)"/>
+<edge source="Benjamin Franklin" target="James Franklin (printer)"/>
+<edge source="Benjamin Franklin" target="Samuel Keimer"/>
+<edge source="Benjamin Franklin" target="Archibald Spencer"/>
+<edge source="Benjamin Franklin" target="William Hunter (publisher)"/>
+<edge source="Benjamin Franklin" target="Josiah Wedgwood"/>
+<edge source="Benjamin Franklin" target="Andrew Oliver"/>
+<edge source="Benjamin Franklin" target="Erasmus Darwin"/>
+<edge source="Benjamin Franklin" target="Sir William Keith, 4th Baronet"/>
+<edge source="Benjamin Franklin" target="George Pocock (inventor)"/>
+<edge source="Benjamin Franklin" target="Matthew Boulton"/>
+<edge source="Benjamin Franklin" target="Tun Tavern"/>
+<edge source="Benjamin Franklin" target="Samuel Johnson (American educator)"/>
+<edge source="Benjamin Franklin" target="William Temple Franklin"/>
+<edge source="Benjamin Franklin" target="Honoré Gabriel Riqueti, comte de Mirabeau"/>
+<edge source="Benjamin Franklin" target="Louis XV of France"/>
+<edge source="Benjamin Franklin" target="Christiaan Huygens"/>
+<edge source="Benjamin Franklin" target="Leonhard Euler"/>
+<edge source="Benjamin Franklin" target="Yekaterina Vorontsova-Dashkova"/>
+<edge source="Benjamin Franklin" target="Thomas-François Dalibard"/>
+<edge source="Benjamin Franklin" target="John Adams"/>
+<edge source="Benjamin Franklin" target="Samuel Willard"/>
+<edge source="Benjamin Franklin" target="John Hancock"/>
+<edge source="Benjamin Franklin" target="David Hall (publisher)"/>
+<edge source="Benjamin Franklin" target="Joseph Addison"/>
+<edge source="Benjamin Franklin" target="Joseph Priestley"/>
+<edge source="Benjamin Franklin" target="Washington-Franklin Issues"/>
+<edge source="Benjamin Franklin" target="Thomas Young (scientist)"/>
+<edge source="Benjamin Franklin" target="Alexander Wedderburn, 1st Earl of Rosslyn"/>
+<edge source="Benjamin Franklin" target="Cotton Mather"/>
+<edge source="Benjamin Franklin" target="William Penn"/>
+<edge source="Benjamin Franklin" target="Otto von Guericke"/>
+<edge source="Benjamin Franklin" target="Walter Isaacson"/>
+<edge source="Benjamin Franklin" target="John Pringle"/>
+<edge source="Benjamin Franklin" target="James Madison (bishop)"/>
+<edge source="Benjamin Franklin" target="Alessandro Volta"/>
+<edge source="Benjamin Franklin" target="Peter Martyr d'Anghiera"/>
+<edge source="Benjamin Franklin" target="Jonathan Swift"/>
+<edge source="Benjamin Franklin" target="Benjamin Franklin National Memorial"/>
+<edge source="Benjamin Franklin" target="Deborah Read"/>
+<edge source="Benjamin Franklin" target="Jean Sylvain Bailly"/>
+<edge source="Benjamin Franklin" target="Henry Home, Lord Kames"/>
+<edge source="Benjamin Franklin" target="Richard Price"/>
+<edge source="Benjamin Franklin" target="George Whitefield"/>
+<edge source="Benjamin Franklin" target="Jacques Charles"/>
+<edge source="Benjamin Franklin" target="James Watt"/>
+<edge source="Benjamin Franklin" target="Theophilus Lindsey"/>
+<edge source="Benjamin Franklin" target="Ezra Stiles"/>
+<edge source="Benjamin Franklin" target="Richard Peters (priest)"/>
+<edge source="Benjamin Franklin" target="Joseph-Ignace Guillotin"/>
+<edge source="Benjamin Franklin" target="Andrew Bradford"/>
+<edge source="Benjamin Franklin" target="Charles I of England"/>
+<edge source="Benjamin Franklin" target="Thomas Jefferson"/>
+<edge source="Benjamin Franklin" target="Antoine Lavoisier"/>
+<edge source="Richard Bache" target="Sarah Franklin Bache"/>
+<edge source="Richard Bache" target="Benjamin Franklin Bache"/>
+<edge source="Richard Bache" target="Benjamin Franklin Bache "/>
+<edge source="Richard Bache" target="Deborah Read"/>
+<edge source="Richard Bache" target="John Adams"/>
+<edge source="Sarah Franklin Bache" target="William Franklin"/>
+<edge source="Sarah Franklin Bache" target="Deborah Read"/>
+<edge source="Benjamin Franklin Bache" target="John Adams"/>
+<edge source="Benjamin Franklin Bache " target="William Temple Franklin"/>
+<edge source="Deborah Read" target="William Franklin"/>
+<edge source="Deborah Read" target="Thomas Bond (physician)"/>
+<edge source="John Adams" target="Jeffersonian democracy"/>
+<edge source="John Adams" target="Sally Hemings"/>
+<edge source="John Adams" target="Samuel Adams"/>
+<edge source="John Adams" target="Thomas Hutchinson "/>
+<edge source="John Adams" target="Joseph Ellis"/>
+<edge source="John Adams" target="Ron Chernow"/>
+<edge source="John Adams" target="Charles Gravier, comte de Vergennes"/>
+<edge source="John Adams" target="Thomas Paine"/>
+<edge source="John Adams" target="John Jay"/>
+<edge source="John Adams" target="John Quincy Adams"/>
+<edge source="John Adams" target="Jonathan Sewall"/>
+<edge source="John Adams" target="Alexander Hamilton"/>
+<edge source="John Adams" target="Richard Price"/>
+<edge source="John Adams" target="Abigail Adams"/>
+<edge source="John Adams" target="David McCullough"/>
+<edge source="John Adams" target="John Marshall"/>
+<edge source="John Adams" target="Henry Laurens"/>
+<edge source="John Adams" target="Mercy Otis Warren"/>
+<edge source="John Adams" target="Benjamin Rush"/>
+<edge source="John Adams" target="Peter Oliver "/>
+<edge source="John Adams" target="Mary Jefferson Eppes"/>
+<edge source="John Adams" target="Roger Sherman"/>
+<edge source="John Adams" target="Jean-Baptiste Donatien de Vimeur, comte de Rochambeau"/>
+<edge source="John Adams" target="Robert R. Livingston "/>
+<edge source="John Adams" target="James Bowdoin"/>
+<edge source="John Adams" target="Charles Cotesworth Pinckney"/>
+<edge source="John Adams" target="Silas Deane"/>
+<edge source="John Adams" target="James T. Callender"/>
+<edge source="John Adams" target="Jacques-Donatien Le Ray de Chaumont"/>
+<edge source="John Adams" target="Thomas Hutchinson (governor)"/>
+<edge source="John Adams" target="Thomas Jefferson"/>
+<edge source="John Adams" target="Joseph Priestley"/>
+<edge source="John Adams" target="John Hancock"/>
+<edge source="Georg Wilhelm Richmann" target="Mikhail Lomonosov"/>
+<edge source="Georg Wilhelm Richmann" target="Alexander Pope"/>
+<edge source="Mikhail Lomonosov" target="Antoine Lavoisier"/>
+<edge source="Alexander Pope" target="John Dryden"/>
+<edge source="Alexander Pope" target="Samuel Garth"/>
+<edge source="Alexander Pope" target="Joseph Addison"/>
+<edge source="Alexander Pope" target="George II of Great Britain"/>
+<edge source="Alexander Pope" target="Samuel Johnson"/>
+<edge source="Alexander Pope" target="Richard Bentley"/>
+<edge source="Alexander Pope" target="John Arbuthnot"/>
+<edge source="Alexander Pope" target="Henry St John, 1st Viscount Bolingbroke"/>
+<edge source="Alexander Pope" target="John Gay"/>
+<edge source="Alexander Pope" target="Jacob Tonson"/>
+<edge source="Alexander Pope" target="Jonathan Swift"/>
+<edge source="Alexander Pope" target="Richard Steele"/>
+<edge source="Alexander Pope" target="William Shakespeare"/>
+<edge source="Mary Morrell Folger" target="Thomas Mayhew"/>
+<edge source="Mary Morrell Folger" target="Peter Folger (Nantucket settler)"/>
+<edge source="Thomas Mayhew" target="Peter Folger (Nantucket settler)"/>
+<edge source="Jane Mecom" target="James Franklin (printer)"/>
+<edge source="John Dryden" target="Joseph Addison"/>
+<edge source="John Dryden" target="Jonathan Swift"/>
+<edge source="Samuel Garth" target="Joseph Addison"/>
+<edge source="Joseph Addison" target="Edmund Burke"/>
+<edge source="Joseph Addison" target="Jonathan Swift"/>
+<edge source="Joseph Addison" target="William III of England"/>
+<edge source="Joseph Addison" target="Richard Steele"/>
+<edge source="Joseph Addison" target="Jacob Tonson"/>
+<edge source="George II of Great Britain" target="Louis XV of France"/>
+<edge source="George II of Great Britain" target="Thomas Hutchinson (governor)"/>
+<edge source="Samuel Johnson" target="Alexander Wedderburn, 1st Earl of Rosslyn"/>
+<edge source="Richard Bentley" target="Jonathan Swift"/>
+<edge source="John Arbuthnot" target="Jonathan Swift"/>
+<edge source="Henry St John, 1st Viscount Bolingbroke" target="Jonathan Swift"/>
+<edge source="Henry St John, 1st Viscount Bolingbroke" target="Thomas Jefferson"/>
+<edge source="John Gay" target="Jonathan Swift"/>
+<edge source="Jonathan Swift" target="George Berkeley"/>
+<edge source="Jonathan Swift" target="William III of England"/>
+<edge source="Jonathan Swift" target="Thomas Sheridan "/>
+<edge source="Jonathan Swift" target="Anne, Queen of Great Britain"/>
+<edge source="Jonathan Swift" target="Francis Godwin"/>
+<edge source="Jonathan Swift" target="George I of Great Britain"/>
+<edge source="Jonathan Swift" target="William Shakespeare"/>
+<edge source="Jonathan Swift" target="Adam Smith"/>
+<edge source="William Shakespeare" target="William Penn"/>
+<edge source="Louis XVI of France" target="Louis XVIII of France"/>
+<edge source="Louis XVI of France" target="Armand Marc, comte de Montmorin"/>
+<edge source="Louis XVI of France" target="Maria Theresa"/>
+<edge source="Louis XVI of France" target="Frederick William II of Prussia"/>
+<edge source="Louis XVI of France" target="Marie Antoinette"/>
+<edge source="Louis XVI of France" target="Louis XIII of France"/>
+<edge source="Louis XVI of France" target="Pierre Beaumarchais"/>
+<edge source="Louis XVI of France" target="Louis Philippe II, Duke of Orléans"/>
+<edge source="Louis XVI of France" target="Jean-Baptiste Donatien de Vimeur, comte de Rochambeau"/>
+<edge source="Louis XVI of France" target="Louis XV of France"/>
+<edge source="Louis XVI of France" target="Jacques Necker"/>
+<edge source="Louis XVI of France" target="Charles X of France"/>
+<edge source="Louis XVI of France" target="Joseph Duplessis"/>
+<edge source="Louis XVI of France" target="Jacques-Donatien Le Ray de Chaumont"/>
+<edge source="Louis XVI of France" target="Honoré Gabriel Riqueti, comte de Mirabeau"/>
+<edge source="Louis XVIII of France" target="Louis XV of France"/>
+<edge source="Armand Marc, comte de Montmorin" target="Honoré Gabriel Riqueti, comte de Mirabeau"/>
+<edge source="Maria Theresa" target="Louis XV of France"/>
+<edge source="Marie Antoinette" target="Louis XV of France"/>
+<edge source="Marie Antoinette" target="Jean Sylvain Bailly"/>
+<edge source="Louis XIII of France" target="Charles I of England"/>
+<edge source="Pierre Beaumarchais" target="Honoré Gabriel Riqueti, comte de Mirabeau"/>
+<edge source="Louis Philippe II, Duke of Orléans" target="Jacques Charles"/>
+<edge source="Louis XV of France" target="Adrien Maurice de Noailles"/>
+<edge source="Louis XV of France" target="François Quesnay"/>
+<edge source="Louis XV of France" target="Victor de Riqueti, marquis de Mirabeau"/>
+<edge source="Louis XV of France" target="Blaise Pascal"/>
+<edge source="Louis XV of France" target="Catherine I of Russia"/>
+<edge source="Louis XV of France" target="Charles X of France"/>
+<edge source="Louis XV of France" target="Adam Smith"/>
+<edge source="Louis XV of France" target="William Pitt, 1st Earl of Chatham"/>
+<edge source="Jacques Necker" target="Joseph Duplessis"/>
+<edge source="Jacques Necker" target="Honoré Gabriel Riqueti, comte de Mirabeau"/>
+<edge source="Joseph Duplessis" target="Denis Diderot"/>
+<edge source="Denis Diderot" target="Leonhard Euler"/>
+<edge source="Denis Diderot" target="Yekaterina Vorontsova-Dashkova"/>
+<edge source="Adam Smith" target="Henry Home, Lord Kames"/>
+<edge source="Adam Smith" target="Claude Adrien Helvétius"/>
+<edge source="Adam Smith" target="Francis Hutcheson "/>
+<edge source="Adam Smith" target="François Quesnay"/>
+<edge source="Adam Smith" target="George Stigler"/>
+<edge source="Adam Smith" target="Joseph Schumpeter"/>
+<edge source="Adam Smith" target="Thomas Reid"/>
+<edge source="Adam Smith" target="James Hutton"/>
+<edge source="Adam Smith" target="Joseph Black"/>
+<edge source="Adam Smith" target="James Boswell"/>
+<edge source="Adam Smith" target="Andrew Millar"/>
+<edge source="Adam Smith" target="William Strahan "/>
+<edge source="Adam Smith" target="Thomas Hutchinson (governor)"/>
+<edge source="Adam Smith" target="James Watt"/>
+<edge source="Adam Smith" target="Richard Price"/>
+<edge source="Henry Home, Lord Kames" target="James Boswell"/>
+<edge source="Claude Adrien Helvétius" target="Yekaterina Vorontsova-Dashkova"/>
+<edge source="Francis Hutcheson " target="Richard Price"/>
+<edge source="George Stigler" target="Max Weber"/>
+<edge source="Joseph Schumpeter" target="Max Weber"/>
+<edge source="Thomas Reid" target="Richard Price"/>
+<edge source="James Hutton" target="George Whitefield"/>
+<edge source="Joseph Black" target="Antoine Lavoisier"/>
+<edge source="Joseph Black" target="James Watt"/>
+<edge source="Joseph Black" target="Jacques Charles"/>
+<edge source="James Boswell" target="Matthew Boulton"/>
+<edge source="Andrew Millar" target="John Pringle"/>
+<edge source="William Strahan " target="Alexander Wedderburn, 1st Earl of Rosslyn"/>
+<edge source="William Strahan " target="David Hall (publisher)"/>
+<edge source="Jacques-Donatien Le Ray de Chaumont" target="Silas Deane"/>
+<edge source="William Franklin" target="John Stuart, 3rd Earl of Bute"/>
+<edge source="William Franklin" target="Alexander Wedderburn, 1st Earl of Rosslyn"/>
+<edge source="William Franklin" target="William Temple Franklin"/>
+<edge source="Henry Steele Commager" target="Raymond Aron"/>
+<edge source="Raymond Aron" target="Max Weber"/>
+<edge source="John Stuart, 3rd Earl of Bute" target="Alexander Wedderburn, 1st Earl of Rosslyn"/>
+<edge source="Alexander Wedderburn, 1st Earl of Rosslyn" target="Charles James Fox"/>
+<edge source="Alexander Wedderburn, 1st Earl of Rosslyn" target="George Grenville"/>
+<edge source="Alexander Wedderburn, 1st Earl of Rosslyn" target="Henry Addington, 1st Viscount Sidmouth"/>
+<edge source="Alexander Wedderburn, 1st Earl of Rosslyn" target="Frederick North, Lord North"/>
+<edge source="Alexander Wedderburn, 1st Earl of Rosslyn" target="Thomas Sheridan "/>
+<edge source="William Temple Franklin" target="Thomas Jefferson"/>
+<edge source="William Temple Franklin" target="James Monroe"/>
+<edge source="Max Weber" target="Max Weber"/>
+<edge source="Franz Mesmer" target="Joseph-Ignace Guillotin"/>
+<edge source="Franz Mesmer" target="Jean Sylvain Bailly"/>
+<edge source="Franz Mesmer" target="Antoine Lavoisier"/>
+<edge source="Jean Sylvain Bailly" target="Jean-Paul Marat"/>
+<edge source="Antoine Lavoisier" target="Joseph Priestley"/>
+<edge source="Antoine Lavoisier" target="Marquis de Condorcet"/>
+<edge source="Antoine Lavoisier" target="Carl Linnaeus"/>
+<edge source="Antoine Lavoisier" target="William Nicholson "/>
+<edge source="Antoine Lavoisier" target="Henry Cavendish"/>
+<edge source="Antoine Lavoisier" target="James Keir"/>
+<edge source="Thomas Hutchinson (governor)" target="Jonathan Belcher"/>
+<edge source="Thomas Hutchinson (governor)" target="Samuel Adams"/>
+<edge source="Thomas Hutchinson (governor)" target="Wills Hill, 1st Marquess of Downshire"/>
+<edge source="Thomas Hutchinson (governor)" target="Spencer Phips"/>
+<edge source="Thomas Hutchinson (governor)" target="Jonathan Sewall"/>
+<edge source="Thomas Hutchinson (governor)" target="William Legge, 2nd Earl of Dartmouth"/>
+<edge source="Thomas Hutchinson (governor)" target="Frederick North, Lord North"/>
+<edge source="Thomas Hutchinson (governor)" target="Mercy Otis Warren"/>
+<edge source="Thomas Hutchinson (governor)" target="Andrew Oliver"/>
+<edge source="Thomas Hutchinson (governor)" target="James Bowdoin"/>
+<edge source="Jonathan Belcher" target="Andrew Oliver"/>
+<edge source="Samuel Adams" target="John Hancock"/>
+<edge source="Wills Hill, 1st Marquess of Downshire" target="George Grenville"/>
+<edge source="Wills Hill, 1st Marquess of Downshire" target="William Pitt, 1st Earl of Chatham"/>
+<edge source="Wills Hill, 1st Marquess of Downshire" target="John Hancock"/>
+<edge source="Spencer Phips" target="Andrew Oliver"/>
+<edge source="Jonathan Sewall" target="John Hancock"/>
+<edge source="William Legge, 2nd Earl of Dartmouth" target="John Hancock"/>
+<edge source="Andrew Oliver" target="Thomas Hutchinson "/>
+<edge source="Andrew Oliver" target="Peter Oliver "/>
+<edge source="James Bowdoin" target="John Hancock"/>
+<edge source="Hugh Meredith" target="Samuel Keimer"/>
+<edge source="Samuel Keimer" target="Andrew Bradford"/>
+<edge source="Matthew Fontaine Maury" target="Thomas Jefferson"/>
+<edge source="Matthew Fontaine Maury" target="John Quincy Adams"/>
+<edge source="Matthew Fontaine Maury" target="James Maury"/>
+<edge source="Matthew Fontaine Maury" target="James Monroe"/>
+<edge source="Thomas Jefferson" target="Joseph Priestley"/>
+<edge source="Thomas Jefferson" target="Edmund Bacon "/>
+<edge source="Thomas Jefferson" target="Jeffersonian democracy"/>
+<edge source="Thomas Jefferson" target="Sally Hemings"/>
+<edge source="Thomas Jefferson" target="George Wythe"/>
+<edge source="Thomas Jefferson" target="Ron Chernow"/>
+<edge source="Thomas Jefferson" target="Charles Gravier, comte de Vergennes"/>
+<edge source="Thomas Jefferson" target="David McCullough"/>
+<edge source="Thomas Jefferson" target="Francis Bacon"/>
+<edge source="Thomas Jefferson" target="James Maury"/>
+<edge source="Thomas Jefferson" target="James Madison"/>
+<edge source="Thomas Jefferson" target="John Quincy Adams"/>
+<edge source="Thomas Jefferson" target="Abigail Adams"/>
+<edge source="Thomas Jefferson" target="James Monroe"/>
+<edge source="Thomas Jefferson" target="Palladian architecture"/>
+<edge source="Thomas Jefferson" target="John Marshall"/>
+<edge source="Thomas Jefferson" target="William Small"/>
+<edge source="Thomas Jefferson" target="William Robertson "/>
+<edge source="Thomas Jefferson" target="Benjamin Rush"/>
+<edge source="Thomas Jefferson" target="Mary Jefferson Eppes"/>
+<edge source="Thomas Jefferson" target="Alexander Hamilton"/>
+<edge source="Thomas Jefferson" target="Robert R. Livingston "/>
+<edge source="Thomas Jefferson" target="Charles Cotesworth Pinckney"/>
+<edge source="Thomas Jefferson" target="James T. Callender"/>
+<edge source="Thomas Jefferson" target="William Penn"/>
+<edge source="Thomas Jefferson" target="Tun Tavern"/>
+<edge source="Thomas Jefferson" target="Richard Price"/>
+<edge source="Thomas Jefferson" target="James Madison (bishop)"/>
+<edge source="Thomas Jefferson" target="Ezra Stiles"/>
+<edge source="William Pitt, 1st Earl of Chatham" target="Richard Price"/>
+<edge source="William Smith (Episcopal priest)" target="Selina Hastings, Countess of Huntingdon"/>
+<edge source="William Smith (Episcopal priest)" target="Richard Peters "/>
+<edge source="William Smith (Episcopal priest)" target="Charles Wesley"/>
+<edge source="William Smith (Episcopal priest)" target="George Whitefield"/>
+<edge source="William Smith (Episcopal priest)" target="John Wesley"/>
+<edge source="Selina Hastings, Countess of Huntingdon" target="George Whitefield"/>
+<edge source="Richard Peters " target="Richard Peters (priest)"/>
+<edge source="Charles Wesley" target="George Whitefield"/>
+<edge source="George Whitefield" target="Jonathan Edwards "/>
+<edge source="George Whitefield" target="John Wesley"/>
+<edge source="George Whitefield" target="Samuel Johnson (American educator)"/>
+<edge source="John Wesley" target="Richard Price"/>
+<edge source="Josiah Wedgwood" target="Joseph Priestley"/>
+<edge source="Josiah Wedgwood" target="Charlotte of Mecklenburg-Strelitz"/>
+<edge source="Josiah Wedgwood" target="Darwin–Wedgwood family"/>
+<edge source="Josiah Wedgwood" target="Erasmus Darwin"/>
+<edge source="Josiah Wedgwood" target="Matthew Boulton"/>
+<edge source="Joseph Priestley" target="John Canton"/>
+<edge source="Joseph Priestley" target="James Watt"/>
+<edge source="Joseph Priestley" target="David Hartley "/>
+<edge source="Joseph Priestley" target="William Pitt the Younger"/>
+<edge source="Joseph Priestley" target="Alessandro Volta"/>
+<edge source="Joseph Priestley" target="Theophilus Lindsey"/>
+<edge source="Joseph Priestley" target="John Aikin"/>
+<edge source="Joseph Priestley" target="Alexander Bain"/>
+<edge source="Joseph Priestley" target="Thomas Paine"/>
+<edge source="Joseph Priestley" target="Henry Cavendish"/>
+<edge source="Joseph Priestley" target="Benjamin Vaughan"/>
+<edge source="Joseph Priestley" target="Joseph Johnson "/>
+<edge source="Joseph Priestley" target="Samuel Taylor Coleridge"/>
+<edge source="Joseph Priestley" target="Richard Price"/>
+<edge source="Joseph Priestley" target="William Petty, 2nd Earl of Shelburne"/>
+<edge source="Joseph Priestley" target="James Clerk Maxwell"/>
+<edge source="Joseph Priestley" target="Erasmus Darwin"/>
+<edge source="Joseph Priestley" target="Immanuel Kant"/>
+<edge source="Joseph Priestley" target="Matthew Boulton"/>
+<edge source="Joseph Priestley" target="Edmund Burke"/>
+<edge source="Joseph Priestley" target="James Keir"/>
+<edge source="Joseph Priestley" target="Gottfried Wilhelm Leibniz"/>
+<edge source="Joseph Priestley" target="William Herschel"/>
+<edge source="Joseph Priestley" target="Charles Cotesworth Pinckney"/>
+<edge source="Charlotte of Mecklenburg-Strelitz" target="Matthew Boulton"/>
+<edge source="Darwin–Wedgwood family" target="Erasmus Darwin"/>
+<edge source="Erasmus Darwin" target="Samuel Taylor Coleridge"/>
+<edge source="Erasmus Darwin" target="Mary Wollstonecraft"/>
+<edge source="Erasmus Darwin" target="Oliver Cromwell"/>
+<edge source="Erasmus Darwin" target="James Burnett, Lord Monboddo"/>
+<edge source="Erasmus Darwin" target="David Hartley "/>
+<edge source="Erasmus Darwin" target="Carl Linnaeus"/>
+<edge source="Erasmus Darwin" target="Matthew Boulton"/>
+<edge source="Thomas Hutchinson " target="John Hancock"/>
+<edge source="Thomas Hutchinson " target="Cotton Mather"/>
+<edge source="Mary Wollstonecraft" target="Richard Price"/>
+<edge source="Oliver Cromwell" target="William Penn"/>
+<edge source="Oliver Cromwell" target="Charles I of England"/>
+<edge source="James Burnett, Lord Monboddo" target="John Pringle"/>
+<edge source="Sir William Keith, 4th Baronet" target="George I of Great Britain"/>
+<edge source="Sir William Keith, 4th Baronet" target="William Penn"/>
+<edge source="Sir William Keith, 4th Baronet" target="Anne, Queen of Great Britain"/>
+<edge source="Sir William Keith, 4th Baronet" target="Hannah Callowhill Penn"/>
+<edge source="William Penn" target="Thomas Paine"/>
+<edge source="William Penn" target="Edmund Bacon "/>
+<edge source="William Penn" target="Hannah Callowhill Penn"/>
+<edge source="William Penn" target="Charles II of England"/>
+<edge source="William Penn" target="Charles I of England"/>
+<edge source="William Penn" target="Richard Peters (priest)"/>
+<edge source="Matthew Boulton" target="James Watt"/>
+<edge source="Matthew Boulton" target="William Pitt the Younger"/>
+<edge source="Matthew Boulton" target="John Wilkinson "/>
+<edge source="Matthew Boulton" target="Palladian architecture"/>
+<edge source="Matthew Boulton" target="William Small"/>
+<edge source="Matthew Boulton" target="William Murdoch"/>
+<edge source="Matthew Boulton" target="Robert Jenkinson, 2nd Earl of Liverpool"/>
+<edge source="Matthew Boulton" target="James Keir"/>
+<edge source="Matthew Boulton" target="John Roebuck"/>
+<edge source="Matthew Boulton" target="Matthew Robinson Boulton"/>
+<edge source="James Watt" target="James Keir"/>
+<edge source="James Watt" target="John Wilkinson "/>
+<edge source="James Watt" target="William Small"/>
+<edge source="James Watt" target="John Roebuck"/>
+<edge source="James Watt" target="William Murdoch"/>
+<edge source="James Watt" target="Matthew Robinson Boulton"/>
+<edge source="William Pitt the Younger" target="Richard Price"/>
+<edge source="Samuel Johnson (American educator)" target="Jonathan Edwards "/>
+<edge source="Samuel Johnson (American educator)" target="George Berkeley"/>
+<edge source="Samuel Johnson (American educator)" target="Joseph Ellis"/>
+<edge source="Samuel Johnson (American educator)" target="John Jay"/>
+<edge source="Samuel Johnson (American educator)" target="Francis Bacon"/>
+<edge source="Samuel Johnson (American educator)" target="Alexander Hamilton"/>
+<edge source="Samuel Johnson (American educator)" target="Roger Sherman"/>
+<edge source="Samuel Johnson (American educator)" target="Robert R. Livingston "/>
+<edge source="Francis Bacon" target="Christiaan Huygens"/>
+<edge source="Francis Bacon" target="Charles I of England"/>
+<edge source="Honoré Gabriel Riqueti, comte de Mirabeau" target="Jean-Paul Marat"/>
+<edge source="Honoré Gabriel Riqueti, comte de Mirabeau" target="Victor de Riqueti, marquis de Mirabeau"/>
+<edge source="Honoré Gabriel Riqueti, comte de Mirabeau" target="William Petty, 2nd Earl of Shelburne"/>
+<edge source="Adrien Maurice de Noailles" target="John Pringle"/>
+<edge source="Blaise Pascal" target="Christiaan Huygens"/>
+<edge source="Blaise Pascal" target="Otto von Guericke"/>
+<edge source="Catherine I of Russia" target="Leonhard Euler"/>
+<edge source="Christiaan Huygens" target="Evangelista Torricelli"/>
+<edge source="Christiaan Huygens" target="Pierre de Fermat"/>
+<edge source="Christiaan Huygens" target="Marin Mersenne"/>
+<edge source="Christiaan Huygens" target="René Descartes"/>
+<edge source="Christiaan Huygens" target="Francis Godwin"/>
+<edge source="Christiaan Huygens" target="Pierre Bouguer"/>
+<edge source="Christiaan Huygens" target="Leonhard Euler"/>
+<edge source="Evangelista Torricelli" target="Otto von Guericke"/>
+<edge source="Pierre de Fermat" target="Leonhard Euler"/>
+<edge source="Marin Mersenne" target="Otto von Guericke"/>
+<edge source="René Descartes" target="Leonhard Euler"/>
+<edge source="Pierre Bouguer" target="Leonhard Euler"/>
+<edge source="Leonhard Euler" target="Leonhard Euler"/>
+<edge source="Leonhard Euler" target="Carl Friedrich Gauss"/>
+<edge source="Leonhard Euler" target="Marquis de Condorcet"/>
+<edge source="Leonhard Euler" target="Gottfried Wilhelm Leibniz"/>
+<edge source="Leonhard Euler" target="Thomas Young (scientist)"/>
+<edge source="Carl Friedrich Gauss" target="Thomas Young (scientist)"/>
+<edge source="Yekaterina Vorontsova-Dashkova" target="William Robertson "/>
+<edge source="Thomas Paine" target="Richard Price"/>
+<edge source="Richard Price" target="Ezra Stiles"/>
+<edge source="Richard Price" target="Theophilus Lindsey"/>
+<edge source="Richard Price" target="John Aikin"/>
+<edge source="Richard Price" target="Alexander Bain"/>
+<edge source="Richard Price" target="Benjamin Vaughan"/>
+<edge source="Richard Price" target="Joseph Johnson "/>
+<edge source="Richard Price" target="Christopher Wyvill"/>
+<edge source="Richard Price" target="Abigail Adams"/>
+<edge source="Richard Price" target="Immanuel Kant"/>
+<edge source="Richard Price" target="Edmund Burke"/>
+<edge source="Richard Price" target="John Canton"/>
+<edge source="Henry Laurens" target="John Hancock"/>
+<edge source="Samuel Willard" target="Thomas Brattle"/>
+<edge source="Samuel Willard" target="Cotton Mather"/>
+<edge source="Thomas Brattle" target="Cotton Mather"/>
+<edge source="John Hancock" target="Paul Revere"/>
+<edge source="Paul Revere" target="Cotton Mather"/>
+<edge source="Alessandro Volta" target="William Nicholson "/>
+<edge source="Alessandro Volta" target="Tiberius Cavallo"/>
+<edge source="Theophilus Lindsey" target="Christopher Wyvill"/>
+<edge source="Henry Cavendish" target="Jacques Charles"/>
+<edge source="James Clerk Maxwell" target="Thomas Young (scientist)"/>
+<edge source="William Herschel" target="Thomas Young (scientist)"/>
+<edge source="Washington-Franklin Issues" target="Washington-Franklin Issues"/>
+<edge source="Charles II of England" target="Charles I of England"/>
+<edge source="James Madison (bishop)" target="George Wythe"/>
+<edge source="James Madison (bishop)" target="James Madison"/>
+<edge source="Tiberius Cavallo" target="Jacques Charles"/>
+</graph></graphml>
